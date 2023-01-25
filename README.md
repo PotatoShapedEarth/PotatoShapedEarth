@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PotatoShapedEarth
 - 👀 I’m interested in Low-level dev | web-dev
 - 🌱 I’m currently learning C/C++, HTML/CSS, JS/TS
-- 💞️ I’m looking to collaborate on anythign that will help me learn
+- 💞️ I’m looking to collaborate on anything that will help me learn
 - 📫 How to reach : here :3
 
 <!---
